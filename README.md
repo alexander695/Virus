@@ -12,7 +12,13 @@ press right click in the short cut an press "rename"
 3 change de icon 
 press right click on the shortcut and select properties opcion,now select the opcion shortcut,in the opcion change the icon change that for other popular application
 
-you don't wanna to make that?it is very suspicious if you do not change it,you do not believe it?
+you don't wanna to make that? it is very suspicious if you do not change it,you don't believe it?
+
+# Consequences
+
+anti-malware services may be running after reboot depending of your manufacture
+DELL 
+<img src="https://cdn.discordapp.com/attachments/650066826243604493/1078413749280591912/image.png">
 
 
 # UPDATE 1.2
